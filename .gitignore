@@ -42,6 +42,5 @@ testem.log
 Thumbs.db
 
 
-src/app/core/services
 src/app/features/
 src/app/shared/
