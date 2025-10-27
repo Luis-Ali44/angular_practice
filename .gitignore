@@ -41,7 +41,7 @@ testem.log
 .DS_Store
 Thumbs.db
 
-src/app/core/domain
+
 src/app/core/infraestructure
 src/app/core/services
 src/app/features/
