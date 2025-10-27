@@ -42,6 +42,5 @@ testem.log
 Thumbs.db
 
 
-src/app/features/search
 src/app/features/track-detail
 
